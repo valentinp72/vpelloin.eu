@@ -51,7 +51,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
     pdf="https://arxiv.org/pdf/2601.05911"
 >}}
-@misc{pelloin26_lrec,
+@misc{hang26_lrec,
   author={Phuong-Hang Le and Valentin Pelloin and Arnault Chatelain and Maryem Bouziane and Mohammed Ghennai and Qianwen Guan and Kirill Milintsevich and Salima Mdhaffar and Aidan Mannion and Nils Defauw and Shuyue Gu and Alexandre Audibert and Marco Dinarelli and Yannick Estève and Lorraine Goeuriot and Steffen Lalande and Nicolas Hervé and Maximin Coavoux and François Portet and Étienne Ollion and Marie Candito and Maxime Peyrard and Solange Rossato and Benjamin Lecouteux and Aurélie Nardy and Gilles Sérasset and Vincent Segonne and Solène Evain and Diandra Fabre and Didier Schwab},
   title={{Pantagruel: Unified Self-Supervised Encoders for French Text and Speech}},
   year=2026,
@@ -66,7 +66,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
     pdf="https://arxiv.org/pdf/2603.15516"
 >}}
-@misc{pelloin26_lrec,
+@misc{devauchelle26_lrec,
   author={Simon Devauchelle and David Doukhan and Rémi Uro and Lucas Ondel Yang and Valentin Pelloin and Olympia Imbert-Brégégère and Véronique Lefort and Kévin Picard and Emeline Seignobos and Albert Rilliard},
   title={{spINAch: A Diachronic Corpus of French Broadcast Speech Controlled for Speakers' Age and Gender}},
   year=2026,
