@@ -33,7 +33,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	title="Data Selection Effects on Self-Supervised Learning of Audio Representations for French Audiovisual Broadcasts"
 	authors="Valentin Pelloin, Lina Bekkali, Reda Dehak, David Doukhan"
 	year="2026"
-	where="LREC 2026, Palma (Mallorca), Spain"
+	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
     pdf="https://arxiv.org/pdf/2604.09472"
 >}}
 @misc{pelloin26_lrec,
@@ -48,7 +48,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	title="Pantagruel: Unified Self-Supervised Encoders for French Text and Speech"
 	authors="Phuong-Hang Le, Valentin Pelloin, Arnault Chatelain, Maryem Bouziane, Mohammed Ghennai, Qianwen Guan, Kirill Milintsevich, Salima Mdhaffar, Aidan Mannion, Nils Defauw, Shuyue Gu, Alexandre Audibert, Marco Dinarelli, Yannick Estève, Lorraine Goeuriot, Steffen Lalande, Nicolas Hervé, Maximin Coavoux, François Portet, Étienne Ollion, Marie Candito, Maxime Peyrard, Solange Rossato, Benjamin Lecouteux, Aurélie Nardy, Gilles Sérasset, Vincent Segonne, Solène Evain, Diandra Fabre, Didier Schwab"
 	year="2026"
-	where="LREC 2026, Palma (Mallorca), Spain"
+	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
     pdf="https://arxiv.org/pdf/2601.05911"
 >}}
 @misc{pelloin26_lrec,
@@ -63,7 +63,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	title="spINAch: A Diachronic Corpus of French Broadcast Speech Controlled for Speakers' Age and Gender"
 	authors="Simon Devauchelle, David Doukhan, Rémi Uro, Lucas Ondel Yang, Valentin Pelloin, Olympia Imbert-Brégégère, Véronique Lefort, Kévin Picard, Emeline Seignobos, Albert Rilliard"
 	year="2026"
-	where="LREC 2026, Palma (Mallorca), Spain"
+	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
     pdf="https://arxiv.org/pdf/2603.15516"
 >}}
 @misc{pelloin26_lrec,
