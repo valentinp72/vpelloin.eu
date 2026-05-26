@@ -34,12 +34,22 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	authors="Valentin Pelloin, Lina Bekkali, Reda Dehak, David Doukhan"
 	year="2026"
 	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
-    pdf="https://arxiv.org/pdf/2604.09472"
+    pdf="http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.802.pdf"
+	doi="10.63317/4kdn23nttrh4"
+	hal="https://hal.science/hal-05632822"
 >}}
-@misc{pelloin26_lrec,
-  author={Valentin Pelloin and Lina Bekkali and Reda Dehak and David Doukhan},
-  title={{Data Selection Effects on Self-Supervised Learning of Audio Representations for French Audiovisual Broadcasts}},
-  year=2026,
+@inproceedings{pelloin-etal-2026-data,
+  title = {Data Selection Effects on Self-Supervised Learning of Audio Representations for French Audiovisual Broadcasts},
+  author = {Pelloin, Valentin and Bekkali, Lina and Dehak, Reda and Doukhan, David},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  month = {May},
+  year = {2026},
+  pages = {10221--10232},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
+  doi = {10.63317/4kdn23nttrh4},
+  abstract = {Audio and speech self-supervised encoder models are now widely used for a lot of different tasks. Many of these models are often trained on clean segmented speech content such as LibriSpeech. In this paper, we look into how the pretraining datasets of such SSL (Self-Supervised Learning) models impact their downstream results. We build a large pretraining corpus of highly diverse TV and Radio broadcast audio content, which we describe with automatic tools. We use these annotations to build smaller subsets, which we use to train audio SSL models. Then, we evaluate the models on multiple downstream tasks such as automatic speech recognition, voice activity and music detection, or speaker recognition. The results show the potential of pretraining SSL models on diverse audio content without restricting it to speech. We also perform a membership inference attack to evaluate the encoder ability to memorize their training datasets, which highlight the importance of data deduplication. This unified training could bridge speech and music machine learning communities.}
   }
 {{< /publication >}}
 
@@ -49,12 +59,22 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	authors="Phuong-Hang Le, Valentin Pelloin, Arnault Chatelain, Maryem Bouziane, Mohammed Ghennai, Qianwen Guan, Kirill Milintsevich, Salima Mdhaffar, Aidan Mannion, Nils Defauw, Shuyue Gu, Alexandre Audibert, Marco Dinarelli, Yannick Estève, Lorraine Goeuriot, Steffen Lalande, Nicolas Hervé, Maximin Coavoux, François Portet, Étienne Ollion, Marie Candito, Maxime Peyrard, Solange Rossato, Benjamin Lecouteux, Aurélie Nardy, Gilles Sérasset, Vincent Segonne, Solène Evain, Diandra Fabre, Didier Schwab"
 	year="2026"
 	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
-    pdf="https://arxiv.org/pdf/2601.05911"
+    pdf="http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.799.pdf"
+	doi="10.63317/573q4exhmpgd"
+	hal="https://hal.science/hal-05627744"
 >}}
-@misc{hang26_lrec,
-  author={Phuong-Hang Le and Valentin Pelloin and Arnault Chatelain and Maryem Bouziane and Mohammed Ghennai and Qianwen Guan and Kirill Milintsevich and Salima Mdhaffar and Aidan Mannion and Nils Defauw and Shuyue Gu and Alexandre Audibert and Marco Dinarelli and Yannick Estève and Lorraine Goeuriot and Steffen Lalande and Nicolas Hervé and Maximin Coavoux and François Portet and Étienne Ollion and Marie Candito and Maxime Peyrard and Solange Rossato and Benjamin Lecouteux and Aurélie Nardy and Gilles Sérasset and Vincent Segonne and Solène Evain and Diandra Fabre and Didier Schwab},
-  title={{Pantagruel: Unified Self-Supervised Encoders for French Text and Speech}},
-  year=2026,
+@inproceedings{le-etal-2026-pantagruel,
+  title = {Pantagruel: Unified Self-Supervised Encoders for French Text and Speech},
+  author = {Le, Phuong-Hang and Pelloin, Valentin and Chatelain, Arnault and Bouziane, Maryem and Ghennai, Mohammed and Guan, Qianwen and Milintsevich, Kirill and Mdhaffar, Salima and Mannion, Aidan and Defauw, Nils and Gu, Shuyue and Audibert, Alexandre Daniel and Dinarelli, Marco and Estève, Yannick and Goeuriot, Lorraine and Lalande, Steffen and Hervé, Nicolas and Coavoux, Maximin and Portet, François and Ollion, Étienne and Candito, Marie and Peyrard, Maxime and Rossato, Solange and Lecouteux, Benjamin and Nardy, Aurélie and Sérasset, Gilles and Segonne, Vincent and Evain, Solène and Fabre, Diandra and Schwab, Didier},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  month = {May},
+  year = {2026},
+  pages = {10168--10191},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
+  doi = {10.63317/573q4exhmpgd},
+  abstract = {We release Pantagruel models, a new family of self-supervised encoder models for French text and speech. Instead of predicting modality-tailored targets such as textual tokens or speech units, Pantagruel learns contextualized target representations in the feature space, allowing modality-specific encoders to capture linguistic and acoustic regularities more effectively. Separate models are pre-trained on large-scale French corpora, including Wikipedia, OSCAR and CroissantLLM for text, together with MultilingualLibriSpeech, LeBenchmark, and INA-100k for speech. INA-100k is a newly introduced 100,000-hour corpus of French audio derived from the archives of the Institut National de l’Audiovisuel (INA), the national repository of French radio and television broadcasts, providing highly diverse audio data. We evaluate Pantagruel across a broad range of downstream tasks spanning both modalities, including those from the standard French benchmarks such as FLUE or LeBenchmark. Across these tasks, Pantagruel models show competitive or superior performance compared to strong French baselines such as CamemBERT, FlauBERT, and LeBenchmark2.0, while maintaining a shared architecture that can seamlessly handle either speech or text inputs. These results confirm the effectiveness of feature-space self-supervised objectives for French representation learning and highlight Pantagruel as a robust foundation for multimodal speech-text understanding.}
   }
 {{< /publication >}}
 
@@ -64,12 +84,21 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	authors="Simon Devauchelle, David Doukhan, Rémi Uro, Lucas Ondel Yang, Valentin Pelloin, Olympia Imbert-Brégégère, Véronique Lefort, Kévin Picard, Emeline Seignobos, Albert Rilliard"
 	year="2026"
 	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
-    pdf="https://arxiv.org/pdf/2603.15516"
+    pdf="http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.459.pdf"
+	doi="10.63317/58hgwvgvkz6g"
 >}}
-@misc{devauchelle26_lrec,
-  author={Simon Devauchelle and David Doukhan and Rémi Uro and Lucas Ondel Yang and Valentin Pelloin and Olympia Imbert-Brégégère and Véronique Lefort and Kévin Picard and Emeline Seignobos and Albert Rilliard},
-  title={{spINAch: A Diachronic Corpus of French Broadcast Speech Controlled for Speakers' Age and Gender}},
-  year=2026,
+@inproceedings{devauchelle-etal-2026-spinach,
+  title = {spINAch: A Diachronic Corpus of French Broadcast Speech Controlled for Speakers' Age and Gender},
+  author = {Devauchelle, Simon and Doukhan, David and Uro, Remi and Ondel, Lucas and Pelloin, Valentin and Imbert-Brégégère, Olympia and Lefort, Véronique and Picard, Kévin and Seignobos, Emeline and Rilliard, Albert},
+  booktitle = {Proceedings of the Fifteenth Language Resources and Evaluation Conference (LREC 2026)},
+  month = {May},
+  year = {2026},
+  pages = {5805--5820},
+  address = {Palma, Mallorca, Spain},
+  publisher = {European Language Resources Association (ELRA)},
+  editor = {Piperidis, Stelios and Bel, Núria and van den Heuvel, Henk and Ide, Nancy and Krek, Simon and Toral, Antonio},
+  doi = {10.63317/58hgwvgvkz6g},
+  abstract = {We present spINAch, a large diachronic corpus of French speech from radio and television archives, balanced by speakers’ gender, age (20-95 years old), and spanning 60 years from 1955 to 2015. The dataset includes over 320 hours of recordings from more than two thousand speakers. The methodology for building the corpus is described, focusing on the quality of collected samples in acoustic terms. The data were automatically transcribed and phonetically aligned to allow studies at a phonemic level. More than 3 million oral vowels have been analyzed to propose their fundamental frequency and formants. The corpus, available to the community for research purposes, is valuable for describing the evolution of Parisian French through the representation of gender and age. The presented analyses also demonstrate that the diachronic nature of the corpus allows the observation of various phonetic phenomena, such as the evolution of voice pitch over time (which does not differ by gender in our data) and the neutralization of the /a/-/ɑ/ opposition in Parisian French during this period.}
   }
 {{< /publication >}}
 
@@ -210,7 +239,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2022"
 	where="LREC 2022 - Language Resources and Evaluation Conference 2022, Marseille, France"
 	pdf="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.171.pdf"
-	hal="https://hal.archives-ouvertes.fr/hal-03706938"
+	hal="https://hal.science/hal-03706938"
 >}}
 @inproceedings{laperriere2022_b,
   title = {The Spoken Language Understanding MEDIA Benchmark Dataset in the Era of Deep Learning: data updates, training and evaluation tools},
@@ -252,7 +281,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2022"
 	where="JEP 2022 - Journées d'Études sur la Parole 2022, Noirmoutier, France"
     pdf="https://www.isca-archive.org/jep_2022/pelloin22_jep.pdf"
-	hal="https://hal.archives-ouvertes.fr/hal-03770548"
+	hal="https://hal.science/hal-03770548"
 	doi="http://doi.org/10.21437/JEP.2022-87"
 >}}
 @inproceedings{pelloin2022jep,
@@ -274,7 +303,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2022"
 	where="JEP 2022 - Journées d'Études sur la Parole 2022, Noirmoutier, France"
     pdf="https://www.isca-archive.org/jep_2022/laperriere22_jep.pdf"
-	hal="https://hal.archives-ouvertes.fr/hal-03770588"
+	hal="https://hal.science/hal-03770588"
 	doi="http://doi.org/10.21437/JEP.2022-51"
 >}}
 @inproceedings{laperriere2022_a,
@@ -321,8 +350,8 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	authors="Coralie Reutenauer, Luce Lefeuvre, Aurélie Fouqueray, Thibault Prouteau, Valentin Pelloin, Cédric Lopez, Camelin Nathalie, Frédérique Segond, Dugué Nicolas and Didier Bourigault"
 	year="2020"
 	where="22ème Congrès de Maîtrise des Risques et de Sûreté de Fonctionnement, Institut pour la Maîtrise des Risques, Oct 2020, Le Havre (e-congrès), France"
-	pdf="https://hal.archives-ouvertes.fr/hal-03476574/document"
-	hal="https://hal.archives-ouvertes.fr/hal-03476574/"
+	pdf="https://hal.science/hal-03476574/document"
+	hal="https://hal.science/hal-03476574/"
 >}}
 @inproceedings{reutenauer2020,
   title = {{Technologies s{\'e}mantiques et acc{\`e}s {\`a} l'information dans le prescrit SNCF}},
@@ -344,7 +373,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2020"
 	where="Actes de la 6e conférence conjointe Journées d'Études sur la Parole (JEP, 33e édition), Traitement Automatique des Langues Naturelles (TALN, 27e édition), Rencontre des Étudiants Chercheurs en Informatique pour le Traitement Automatique des Langues (RECITAL, 22e édition)"
 	pdf="https://www.aclweb.org/anthology/2020.jeptalnrecital-recital.13.pdf"
-	hal="https://hal.archives-ouvertes.fr/hal-02786198v3"
+	hal="https://hal.science/hal-02786198v3"
 >}}
 @inproceedings{pelloin2020,
   title = {Apprentissage de plongements de mots sur des corpus en langue de sp{\'e}cialit{\'e} : une {\'e}tude d{'}impact},
