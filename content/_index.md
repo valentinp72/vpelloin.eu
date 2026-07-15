@@ -29,6 +29,65 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 #### 2026
 
 {{< publication
+	id="taln2026"
+	title="Pantagruel : des encodeurs auto-supervisés unifiés pour le texte et la parole"
+	authors="Phuong-Hang Le, Valentin Pelloin, Arnault Chatelain, Maryem Bouziane, Mohammed Ghennai, Qianwen Guan, Kirill Milintsevich, Salima Mdhaffar, Aidan Mannion, Nils Defauw, Shuyue Gu, Alexandre Audibert, Marco Dinarelli, Yannick Estève, Lorraine Goeuriot, Steffen Lalande, Nicolas Hervé, Maximin Coavoux, François Portet, Étienne Ollion, Marie Candito, Maxime Peyrard, Solange Rossato, Benjamin Lecouteux, Aurélie Nardy, Gilles Sérasset, Vincent Segonne, Solène Evain, Diandra Fabre, Didier Schwab"
+	year="2026"
+	where="33ème Conférence sur le Traitement Automatique des Langues Naturelles (TALN), Nantes, France"
+    pdf="https://talnarchives.atala.org/TALN/TALN-2026/55.pdf"
+>}}
+@inproceedings{le26_taln,
+    author = "Le, Phuong-Hang and Pelloin, Valentin and Chatelain, Arnault and Bouziane, Maryem and Ghennai, Mohammed and Guan, Qianwen and Milintsevich, Kirill and Mdhaffar, Salima and Mannion, Aidan and DEFAUW, Nils and Gu, Shuyue and Audibert, Alexandre and Dinarelli, Marco and Estève, Yannick and Goeuriot, Lorraine and Lalande, Steffen and Hervé, Nicolas and Coavoux, Maximin and Portet, François and Ollion, Etienne and Candito, Marie and Peyrard, Maxime and Rossato, Solange and Lecouteux, Benjamin and Nardy, Aurélie and Sérasset, Gilles and Segonne, Vincent and Evain, Solène and Fabre, Diandra and Schwab, Didier",
+    title = "Pantagruel : des encodeurs auto-supervisés unifiés pour le texte et la parole",
+    booktitle = "Actes de CORIA-TALN 2026. Actes des 33ème Conférence sur le Traitement Automatique des Langues Naturelles.  Volume 2 : articles déjà publiés",
+    month = "6",
+    year = "2026",
+    address = "Nantes, France",
+    publisher = "Association pour le Traitement Automatique des Langues",
+    pages = "38-39",
+    url = "https://talnarchives.atala.org/TALN/TALN-2026/55.pdf"
+}
+{{< /publication >}}
+
+{{< publication
+	id="jep2026_a"
+	title="Effets de la sélection des données pour l'apprentissage de modèles autosupervisés audio pour le français"
+	authors="Valentin Pelloin, Lina Bekkali, Reda Dehak, David Doukhan"
+	year="2026"
+	where="36ème Journées d’Études sur la Parole (JEP 2026), Montpellier, France"
+    pdf="https://www.isca-archive.org/jep_2026/pelloin26_jep.pdf"
+	doi="10.21437/JEP.2026-28"
+>}}
+@inproceedings{pelloin26_jep,
+  title     = {{Effets de la sélection des données pour l'apprentissage de modèles autosupervisés audio pour le français}},
+  author    = {Valentin Pelloin and Lina Bekkali and Reda Dehak and David Doukhan},
+  year      = {2026},
+  booktitle = {{36ème Journées d’Études sur la Parole}},
+  pages     = {276--287},
+  doi       = {10.21437/JEP.2026-28},
+}
+{{< /publication >}}
+
+{{< publication
+	id="jep2026_b"
+	title="Encodeurs autosupervisés unifiés entre les modalités : focus sur la parole en français"
+	authors="Phuong-Hang Le, Valentin Pelloin, Arnault Chatelain, Maryem Bouziane, Mohammed Ghennai, Qianwen Guan, Kirill Milintsevich, Salima Mdhaffar, Aidan Mannion, Nils Defauw, Shuyue Gu, Alexandre Audibert, Marco Dinarelli, Yannick Estève, Lorraine Goeuriot, Steffen Lalande, Nicolas Hervé, Maximin Coavoux, François Portet, Étienne Ollion, Marie Candito, Maxime Peyrard, Solange Rossato, Benjamin Lecouteux, Aurélie Nardy, Gilles Sérasset, Vincent Segonne, Solène Evain, Diandra Fabre, Didier Schwab"
+	year="2026"
+	where="36ème Journées d’Études sur la Parole (JEP 2026), Montpellier, France"
+    pdf="https://www.isca-archive.org/jep_2026/le26_jep.pdf"
+	doi="10.21437/JEP.2026-37"
+>}}
+@inproceedings{le26_jep,
+  title     = {{Encodeurs autosupervisés unifiés entre les modalités : focus sur la parole en français}},
+  author    = {Phuong-Hang Le and Valentin Pelloin and Arnault Chatelain and Maryem Bouziane and Mohammed Ghennai and Qianwen Guan and Kirill Milintsevich and Salima Mdhaffar and Aidan Mannion and Nils Defauw and Shuyue Gu and Alexandre Audibert and Marco Dinarelli and Yannick Estève and Lorraine Goeuriot and Steffen Lalande and Nicolas Hervé and Maximin Coavoux and François Portet and Étienne Ollion and Marie Candito and Maxime Peyrard and Solange Rossato and Benjamin Lecouteux and Aurélie Nardy and Gilles Sérasset and Vincent Segonne and Solène Evain and Diandra Fabre and Didier Schwab},
+  year      = {2026},
+  booktitle = {{36ème Journées d’Études sur la Parole}},
+  pages     = {377--389},
+  doi       = {10.21437/JEP.2026-37},
+}
+{{< /publication >}}
+
+{{< publication
 	id="lrec2026_a"
 	title="Data Selection Effects on Self-Supervised Learning of Audio Representations for French Audiovisual Broadcasts"
 	authors="Valentin Pelloin, Lina Bekkali, Reda Dehak, David Doukhan"
