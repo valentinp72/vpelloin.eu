@@ -148,6 +148,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
     pdf="http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.459.pdf"
 	doi="https://doi.org/10.63317/58hgwvgvkz6g"
+    hal="https://hal.science/hal-05786307"
 >}}
 @inproceedings{devauchelle-etal-2026-spinach,
   title = {spINAch: A Diachronic Corpus of French Broadcast Speech Controlled for Speakers' Age and Gender},
