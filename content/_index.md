@@ -35,6 +35,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2026"
 	where="33ème Conférence sur le Traitement Automatique des Langues Naturelles (TALN), Nantes, France"
     pdf="https://talnarchives.atala.org/TALN/TALN-2026/55.pdf"
+    hal="https://hal.science/hal-05785830"
 >}}
 @inproceedings{le26_taln,
     author = "Le, Phuong-Hang and Pelloin, Valentin and Chatelain, Arnault and Bouziane, Maryem and Ghennai, Mohammed and Guan, Qianwen and Milintsevich, Kirill and Mdhaffar, Salima and Mannion, Aidan and DEFAUW, Nils and Gu, Shuyue and Audibert, Alexandre and Dinarelli, Marco and Estève, Yannick and Goeuriot, Lorraine and Lalande, Steffen and Hervé, Nicolas and Coavoux, Maximin and Portet, François and Ollion, Etienne and Candito, Marie and Peyrard, Maxime and Rossato, Solange and Lecouteux, Benjamin and Nardy, Aurélie and Sérasset, Gilles and Segonne, Vincent and Evain, Solène and Fabre, Diandra and Schwab, Didier",
@@ -56,7 +57,8 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2026"
 	where="36ème Journées d’Études sur la Parole (JEP 2026), Montpellier, France"
     pdf="https://www.isca-archive.org/jep_2026/pelloin26_jep.pdf"
-	doi="10.21437/JEP.2026-28"
+	doi="https://doi.org/10.21437/JEP.2026-28"
+    hal="https://hal.science/hal-05785915"
 >}}
 @inproceedings{pelloin26_jep,
   title     = {{Effets de la sélection des données pour l'apprentissage de modèles autosupervisés audio pour le français}},
@@ -75,7 +77,8 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2026"
 	where="36ème Journées d’Études sur la Parole (JEP 2026), Montpellier, France"
     pdf="https://www.isca-archive.org/jep_2026/le26_jep.pdf"
-	doi="10.21437/JEP.2026-37"
+	doi="https://doi.org/10.21437/JEP.2026-37"
+    hal="https://hal.science/hal-05738284"
 >}}
 @inproceedings{le26_jep,
   title     = {{Encodeurs autosupervisés unifiés entre les modalités : focus sur la parole en français}},
@@ -94,7 +97,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2026"
 	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
     pdf="http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.802.pdf"
-	doi="10.63317/4kdn23nttrh4"
+	doi="https://doi.org/10.63317/4kdn23nttrh4"
 	hal="https://hal.science/hal-05632822"
 >}}
 @inproceedings{pelloin-etal-2026-data,
@@ -119,7 +122,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2026"
 	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
     pdf="http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.799.pdf"
-	doi="10.63317/573q4exhmpgd"
+	doi="https://doi.org/10.63317/573q4exhmpgd"
 	hal="https://hal.science/hal-05627744"
 >}}
 @inproceedings{le-etal-2026-pantagruel,
@@ -144,7 +147,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2026"
 	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
     pdf="http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.459.pdf"
-	doi="10.63317/58hgwvgvkz6g"
+	doi="https://doi.org/10.63317/58hgwvgvkz6g"
 >}}
 @inproceedings{devauchelle-etal-2026-spinach,
   title = {spINAch: A Diachronic Corpus of French Broadcast Speech Controlled for Speakers' Age and Gender},
@@ -171,6 +174,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	where="Interspeech 2024, Kos, Greece"
     pdf="https://www.isca-archive.org/interspeech_2024/pelloin24_interspeech.pdf"
 	doi="https://doi.org/10.21437/Interspeech.2024-1854"
+    hal="https://hal.science/hal-04904009v1"
 >}}
 @inproceedings{pelloin24_interspeech,
   author={Valentin Pelloin and Lena Dodson and \'Emile Chapuis and Nicolas Hervé and David Doukhan},
@@ -190,6 +194,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	where="Interspeech 2024, Kos, Greece"
     pdf="https://www.isca-archive.org/interspeech_2024/doukhan24_interspeech.pdf"
 	doi="https://doi.org/10.21437/Interspeech.2024-1921"
+    hal="https://hal.science/hal-04903972v1"
 >}}
 @inproceedings{doukhan24_interspeech,
   author={David Doukhan and Lena Dodson and Manon Conan and Valentin Pelloin and Aurélien Clamouse and Mélina Lepape and Géraldine {Van Hille} and Cécile Méadel and Marlène Coulomb-Gully},
@@ -209,6 +214,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	where="Le Mans University (PhD thesis)"
     pdf="https://theses.hal.science/tel-04446162v1/file/2024LEMA1002.pdf"
     hal="https://theses.hal.science/tel-04446162"
+    doi="https://doi.org/10.70675/7b83ca8ez7b8dz4317za876zc0ca8f18c5a1"
 >}}
 @phdthesis{pelloin2024,
   title = {{La compr{\'e}hension de la parole dans les syst{\`e}mes de dialogues humain-machine {\`a} l'heure des mod{\`e}les pr{\'e}-entra{\^i}n{\'e}s}},
@@ -236,6 +242,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	where="SLT 2022, Doha, Qatar"
 	pdf="https://arxiv.org/pdf/2210.05291.pdf"
 	doi="https://doi.org/10.1109/SLT54892.2023.10023013"
+    hal="https://hal.science/hal-04155025v1"
 >}}
 @inproceedings{laperriere22_slt,
   title = {On the Use of Semantically-Aligned Speech Representations for Spoken Language Understanding},
@@ -256,7 +263,8 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2022"
 	where="Interspeech 2022, Incheon, South Korea"
     pdf="https://www.isca-archive.org/interspeech_2022/pelloin22_interspeech.pdf"
-	doi="http://doi.org/10.21437/Interspeech.2022-352"
+	doi="https://doi.org/10.21437/Interspeech.2022-352"
+    hal="https://hal.science/hal-03770506v1"
 >}}
 @inproceedings{pelloin22_interspeech,
   author={Valentin Pelloin and Franck Dary and Nicolas Hervé and Benoit Favre and Nathalie Camelin and Antoine Laurent and Laurent Besacier},
@@ -275,7 +283,8 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2022"
 	where="ACL 2022 - Workshop on Challenges & Perspectives in Creating Large Language Models (Association for Computational Linguistics), Dublin, Ireland"
 	pdf="https://aclanthology.org/2022.bigscience-1.2.pdf"
-	doi="http://doi.org/10.18653/v1/2022.bigscience-1.2"
+	doi="https://doi.org/10.18653/v1/2022.bigscience-1.2"
+    hal="https://hal.science/hal-03770460v1"
 >}}
 @inproceedings{herve2022,
   title = {Using {ASR}-Generated Text for Spoken Language Modeling},
@@ -319,7 +328,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2022"
 	where="LREC 2022 - Language Resources and Evaluation Conference 2022, Marseille, France"
 	pdf="http://www.lrec-conf.org/proceedings/lrec2022/pdf/2022.lrec-1.316.pdf"
-	hal="https://hal.archives-ouvertes.fr/hal-03706925"
+	hal="https://hal.science/hal-03706925"
 >}}
 @inproceedings{mdhaffar2022,
   title = {Impact Analysis of the Use of Speech and Language Models Pretrained by Self-Supersivion for Spoken Language Understanding},
@@ -341,7 +350,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	where="JEP 2022 - Journées d'Études sur la Parole 2022, Noirmoutier, France"
     pdf="https://www.isca-archive.org/jep_2022/pelloin22_jep.pdf"
 	hal="https://hal.science/hal-03770548"
-	doi="http://doi.org/10.21437/JEP.2022-87"
+	doi="https://doi.org/10.21437/JEP.2022-87"
 >}}
 @inproceedings{pelloin2022jep,
   title = {Architectures neuronales bout-en-bout pour la compréhension de la parole},
@@ -363,7 +372,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	where="JEP 2022 - Journées d'Études sur la Parole 2022, Noirmoutier, France"
     pdf="https://www.isca-archive.org/jep_2022/laperriere22_jep.pdf"
 	hal="https://hal.science/hal-03770588"
-	doi="http://doi.org/10.21437/JEP.2022-51"
+	doi="https://doi.org/10.21437/JEP.2022-51"
 >}}
 @inproceedings{laperriere2022_a,
   title = {Le benchmark MEDIA revisité : données, outils et évaluation dans un contexte d’apprentissage profond},
@@ -388,6 +397,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	where="ICASSP 2021 - 2021 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)"
 	pdf="https://arxiv.org/pdf/2102.01013.pdf"
 	doi="https://doi.org/10.1109/ICASSP39728.2021.9413581"
+    hal="https://hal.science/hal-03128163v1"
 >}}
 @inproceedings{pelloin2021,
   title = {End2End Acoustic to Semantic Transduction},
