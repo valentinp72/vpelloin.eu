@@ -35,7 +35,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	year="2026"
 	where="33ème Conférence sur le Traitement Automatique des Langues Naturelles (TALN), Nantes, France"
     pdf="https://talnarchives.atala.org/TALN/TALN-2026/55.pdf"
-    hal="https://hal.science/hal-05785830"
+    hal="https://hal.science/hal-05786114"
 >}}
 @inproceedings{le26_taln,
     author = "Le, Phuong-Hang and Pelloin, Valentin and Chatelain, Arnault and Bouziane, Maryem and Ghennai, Mohammed and Guan, Qianwen and Milintsevich, Kirill and Mdhaffar, Salima and Mannion, Aidan and DEFAUW, Nils and Gu, Shuyue and Audibert, Alexandre and Dinarelli, Marco and Estève, Yannick and Goeuriot, Lorraine and Lalande, Steffen and Hervé, Nicolas and Coavoux, Maximin and Portet, François and Ollion, Etienne and Candito, Marie and Peyrard, Maxime and Rossato, Solange and Lecouteux, Benjamin and Nardy, Aurélie and Sérasset, Gilles and Segonne, Vincent and Evain, Solène and Fabre, Diandra and Schwab, Didier",
@@ -148,7 +148,7 @@ I am currently working at [INA](https://www.ina.fr/), the French National Audiov
 	where="Fifteenth International Conference on Language Resources and Evaluation (LREC 2026), Palma (Mallorca), Spain"
     pdf="http://www.lrec-conf.org/proceedings/lrec2026/pdf/2026.lrec2026-1.459.pdf"
 	doi="https://doi.org/10.63317/58hgwvgvkz6g"
-    hal="https://hal.science/hal-05786307"
+    hal="https://hal.science/hal-05786432"
 >}}
 @inproceedings{devauchelle-etal-2026-spinach,
   title = {spINAch: A Diachronic Corpus of French Broadcast Speech Controlled for Speakers' Age and Gender},
